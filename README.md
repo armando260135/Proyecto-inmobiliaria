@@ -1,5 +1,6 @@
 # Proyecto-inmobiliaria
-Comienso del proyecto de una pagina web inmobiliaria. 
+ 
+ Proyecto de base de datos con php, pagina web inmobiliaria con frontend y backend 
 Proyecto subido con git utilizando comandos. 
 ![cap1](https://user-images.githubusercontent.com/72154277/120130981-07c78d80-c18d-11eb-9ddf-0756c44f03bc.PNG)
 ![cap2](https://user-images.githubusercontent.com/72154277/120130983-08f8ba80-c18d-11eb-8caa-21a0ebafdb89.PNG)
